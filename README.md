@@ -1,2 +1,2 @@
 # arrow-state
-React: Statefule Arrow Function with Render Props
+React: Stateful Arrow Function with Render Props
